@@ -9,4 +9,4 @@
   
   Brief
   ----------
-Combined with a usb-based microcontroller, pageDash creates a 1,966 word, 12,456 character webpage. It then opens the created page in the device's default browser and deletes the original file off the computer to clean up after it's self. All in less than 50 seconds. 
+Combined with a usb-based microcontroller, pageDash creates and writes a 1,966 word, 12,456 character webpage on the host computer. It then opens the created page in the device's default browser and deletes the original file off the computer to clean up after it's self. All in less than 50 seconds. 
