@@ -11,15 +11,14 @@
 //888                "Y88P"                                                 
 //
 // By: Jake Priddy
-//
-//// With an unlocked mac this sketch opens the terminal, 
-//// creates an html file on the desktop, writes a 1,966 word, 
-//// 12,456 character website about the preamble and all ten amendments 
-//// to the constitution with back story in html format. It then opens 
-//// the page on the device default browser, deletes the original 
-//// file off the device closes the terminal and runs the newly created file
-//// leaving nothing more than the page open on the browser.
-//// all in less than 50 seconds
+// 3/27/2017
+//// Combined with a Teensy (also works with arduino) pageDash opens the terminal, 
+//// creates an html file on the desktop, writes a 1,966 word, 12,456 character 
+//// website about the preamble and all ten amendments to the constitution with 
+//// back story in html format. It then opens the page on the device's default browser, 
+//// deletes the original file off the device closes the terminal and runs the newly 
+//// created file leaving nothing more than the page open on the browser. 
+//// All in less than 50 seconds
 
 
 // create a delay to allow load time
